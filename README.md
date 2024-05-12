@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Backend and more that
 - 💞️ I’m looking to collaborate on long term landing
 - 📫 How to reach me :
-        Face: https://www.facebook.com/DatIT2002/
-        zalo: 0937613591
+        >Face: https://www.facebook.com/DatIT2002/
+        >zalo: 0937613591
 
 <!---
 Pikamlem/Pikamlem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
